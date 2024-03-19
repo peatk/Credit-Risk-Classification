@@ -7,6 +7,7 @@ The dataset provided contained information about loans, including features such 
 The stages of the machine learning process involved data preprocessing, model selection, model training, and model evaluation. We used logistic regression as the primary algorithm for this analysis.
 
 ### Results
+  
   Logistic Regression:
   Accuracy: 0.99
   Precision (Low Risk Loan): 1.00
