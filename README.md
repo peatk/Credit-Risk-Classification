@@ -15,7 +15,7 @@ The stages of the machine learning process involved data preprocessing, model se
 - Recall (High Risk Loan): 94%
 
 ### Summary
-The logistic regression model performed exceptionally well with an accuracy of 0.99. It exhibited high precision and recall scores for both low-risk and high-risk loans. The precision score for low-risk loans was perfect, indicating that all loans classified as low risk were indeed low risk. The model also showed a high recall score for high-risk loans, suggesting that it effectively identified the majority of high-risk loans in the dataset.
+The logistic regression model performed exceptionally well with an accuracy of 99%. It exhibited high precision and recall scores for both low-risk and high-risk loans. The precision score for low-risk loans was perfect, indicating that all loans classified as low risk were indeed low risk. The model also showed a high recall score for high-risk loans, suggesting that it effectively identified the majority of high-risk loans in the dataset.
 
 Based on these results, I recommend using the logistic regression model for credit risk analysis. Its high accuracy and balanced precision and recall scores make it suitable for identifying both low-risk and high-risk loans accurately.
 
