@@ -7,13 +7,12 @@ The dataset provided contained information about loans, including features such 
 The stages of the machine learning process involved data preprocessing, model selection, model training, and model evaluation. We used logistic regression as the primary algorithm for this analysis.
 
 ### Results
-
-Logistic Regression:
-Accuracy: 0.99
-Precision (Low Risk Loan): 1.00
-Precision (High Risk Loan): 0.84
-Recall (Low Risk Loan): 0.99
-Recall (High Risk Loan): 0.94
+  Logistic Regression:
+  Accuracy: 0.99
+  Precision (Low Risk Loan): 1.00
+  Precision (High Risk Loan): 0.84
+  Recall (Low Risk Loan): 0.99
+  Recall (High Risk Loan): 0.94
 
 ### Summary
 The logistic regression model performed exceptionally well with an accuracy of 0.99. It exhibited high precision and recall scores for both low-risk and high-risk loans. The precision score for low-risk loans was perfect, indicating that all loans classified as low risk were indeed low risk. The model also showed a high recall score for high-risk loans, suggesting that it effectively identified the majority of high-risk loans in the dataset.
